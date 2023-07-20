@@ -1,1 +1,1 @@
-# tender-GPT
+# ECO-GPT
